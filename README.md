@@ -64,7 +64,7 @@ It is designed to showcase **backend engineering skills**  that including:
 ---
 
 ## 🧠 Why Event-Driven?
-- Better scalability
+-  Better scalability
 - Loose coupling
 - Fault isolation
 - Real-world microservices pattern used in production systems
@@ -81,3 +81,26 @@ It is designed to showcase **backend engineering skills**  that including:
 ### Build all modules
 ```bash
 mvn clean install
+
+
+🔮 Upcoming Enhancements
+
+Idempotent Kafka consumers
+
+Retry & Dead Letter Topic (DLT)
+
+Payment service
+
+Schema evolution strategy
+
+Java 17/21 feature upgrades
+
+Docker & Docker Compose
+
+Observability (Health checks, metrics)
+
+👩‍💻 Author
+
+Shikha Yadav
+Java Backend Developer (4–5 YOE)
+Focused on scalable backend systems & microservices
