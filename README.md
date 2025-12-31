@@ -82,8 +82,9 @@ It is designed to showcase **backend engineering skills**  that including:
 ```bash
 mvn clean install
 
+---
 
-🔮 Upcoming Enhancements
+## 🔮 Upcoming Enhancements
 
 Idempotent Kafka consumers
 
@@ -98,8 +99,8 @@ Java 17/21 feature upgrades
 Docker & Docker Compose
 
 Observability (Health checks, metrics)
-
-👩‍💻 Author
+----
+##👩‍💻 Author 
 
 Shikha Yadav
 Java Backend Developer (4–5 YOE)
